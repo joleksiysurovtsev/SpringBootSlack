@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: slack-sender
+
+slack:
+  channel-name: springbootslack
+  webhook: T05H44HRQH2/B05GN2R3YLF/DGSv9DneXVBY0A2RlJ0MltGB
